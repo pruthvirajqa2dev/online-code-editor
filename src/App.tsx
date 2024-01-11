@@ -1,5 +1,6 @@
-import Editor from "./Editor"
+import Editor from "./components/Editor"
+
 function App(){
- return <div><Editor></Editor></div>
+ return <Editor></Editor>
 }
 export default App
